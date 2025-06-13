@@ -9,6 +9,8 @@ Welcome to the team! Use this checklist to track your onboarding journey. Tick e
 - [ ] 📘 Review [Amex Onboarding Guide]
 
 ---
+
+# 🥇 First Day Onboarding
 ## 🔗 Access Requests (via IIQ)
 Please raise IIQ requests for the following groups:
 
@@ -30,9 +32,14 @@ Please raise IIQ requests for the following groups:
 ## :octopus: GitHub Access Setup
 ### :wrench: Resy GitHub
 
-- [ ] :white_check_mark: After being granted `GG-ADS-Resy-Github-Engineering`, go to `#resy-eng-infra` on Slack
-- [ ] :speech_balloon: Submit a workflow request and provide your *public GitHub username
-- [ ] :link: Join the Resy GitHub org: [https://github.com/resy](https://github.com/resy)
+- [ ] :white_check_mark: After being granted `GG-ADS-Resy-Github-Engineering`, go to `#resy-eng-infra` on Slack Submit a workflow request and provide your *public GitHub username
+- [ ] :link: To get access to Resy GitHub Organization  [https://github.com/resy](https://github.com/resy)
+
+prerequisite: You need a Github.com account (create one with your aexp if you do not want to use your personal one)
+
+Request access to the resy  workspace via the "Resy Devops Request" workflow on "resy-eng-infra" slack channel
+
+After you get an invite, you will need to accept the request on GH. You should get a notification from Gh to complete this.
 
 ---
 
@@ -70,7 +77,7 @@ Make sure to join these Slack channels:
 ## :busts_in_silhouette: Distribution Groups
 Make sure you are added to the following email distribution groups:
 
-- [ ] :e-mail: `ResySRE` – Ask a team member to add you
+- [ ] :e-mail: Join the `ResySRE` distribution group – Ask a team member to add you
 
 ---
 
@@ -146,6 +153,17 @@ To set up the proxy in your terminal:
 ## 🦾 Manage your secrets in Vault using Vault API's Curl (optional)
 
   At some point in time every individual has to set the secret keys in vault here is the documentation to follow [Manage your secrets using Vault APIs (curl)](https://enterprise-confluence.aexp.com/confluence/pages/viewpage.action?pageId=271621558)
+
+---
+
+## 📚 Learning Resources
+
+These are useful for long-term understanding. Bookmark them and review when time permits:
+
+- [os-web Overview](https://enterprise-confluence.aexp.com/confluence/display/RESY/os-web+Overview)
+- [Resy-Notify](https://enterprise-confluence.aexp.com/confluence/display/RESY/Resy+-+Notify)
+- [resy-web Overview](https://enterprise-confluence.aexp.com/confluence/display/RESY/resy-web+Overview)
+- [Current Monitoring Analysis](https://enterprise-confluence.aexp.com/confluence/display/RESY/Current+Monitoring+Analysis+for+Resy)
 
 ---
 
