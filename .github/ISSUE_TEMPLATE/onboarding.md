@@ -156,7 +156,7 @@ To set up the proxy in your terminal:
 
 ---
 
-## 📚 Learning Resources
+## 📚 Additional Resources
 
 These are useful for long-term understanding. Bookmark them and review when time permits:
 
